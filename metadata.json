@@ -1,0 +1,6 @@
+{
+  "name": "ALVR VR Controller",
+  "description": "ALVR VR Client with Samsung Gear VR 3DoF Bluetooth Controller integration, pre-stream pairing, live 3D orientation visualizer, and SteamVR streaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
